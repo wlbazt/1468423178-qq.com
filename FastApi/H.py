@@ -1,3 +1,3 @@
-import requests
+from adodbapi import adModeShareDenyNone
 
-a = requests.utils.dict_from_cookiejar()
+"wfwefewfwf"
